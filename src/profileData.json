@@ -1,0 +1,84 @@
+{
+	"landing": {
+		"firstName": "Aishwarya",
+		"lastName": "Raman",
+		"phoneNumber": "+91-8447331914",
+		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
+    "email": "aishwarya.raman96@gmail.com",
+    "linkedin": "www.linkedin.com/in/aishwarya-raman-1b6690122",
+		"github": "https://github.com/CodeOctal"
+	},
+	"experience": [
+		{
+				"project": "Education Corner",
+				"technology": "JAVA,HTML,JSP,SERVLETS,CSS,MySQL",
+				"description": "Major Degree Core Development single headedly undertaken project “Education Corner in Java Technology” Helps the students and professionals to find relevant study material along with e books, e-book voice over and video assistant. Scraping is also used for extracting technical news. This project is ongoing.",
+				"fromDate": "Jan 2020",
+				"toDate": "Present"
+		},
+		{
+			"project": "Student Buddy",
+			"technology": " PYTHON 3.6 | FLASK | MySQL",
+			"description": "Developed an Interactive search bot “Student Buddy” with a team size of 3 members. Web crawling and Web Scraping being the major mechanism to help the users find their desired search result like a mini google to fetch data from the web.",
+			"fromDate": "March 2019",
+			"toDate": "Present"
+		},
+		{
+			"project": "Sophia  Your very own desktop assistant in python",
+			"technology": " PYTHON 3.6 | TKINTER ",
+			"description": "Major Degree Core Development single headedly undertaken project “Sophia – Your very own desktop assistant in python”.",
+			"fromDate": "March 2018",
+			"toDate": "Present"
+		}
+	],
+	"education": [
+		{
+			"university": "Bharati Vidyapeeth's Institute of Computer Applications and Management (BVICAM)",
+			"degree": "Master of Computer Application",
+			"percentage": "84",
+			"fromDate": "August 2018",
+			"toDate": "Present"
+		},
+		{
+			"university": "Institute of Information Technology and Management",
+			"degree": "Bachelor of Computer Application",
+			"percentage": "89",
+			"fromDate": "August 2015",
+			"toDate": "June 2018"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Java"
+		},
+		
+		{
+			"name": "C"
+		},
+		{
+			"name": "Python"
+		}
+		
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
+
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+	},
+	"awards": [
+		{
+			"awardDetail": "Hack 36 3rd prize winner."
+		},
+		{
+			"awardDetail": "Mentor OpenCode'19"
+		},
+		{
+			"awardDetail": "Started North India's First Student Design and Developer Conference."
+		}
+	]
+}
